@@ -1,0 +1,1302 @@
+1637856949542	geckodriver	INFO	Listening on 127.0.0.1:13313
+1637856952550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "13314" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileECcbLg"
+1637856952905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileECcbLg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13314/devtools/browser/7cadc0a6-236d-4c50-8f49-80c3ab85b712
+1637856955293	Marionette	INFO	Listening on port 13321
+1637856955682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637856963725	Marionette	INFO	Stopped listening on port 13321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637857001881	geckodriver	INFO	Listening on 127.0.0.1:13394
+1637857004895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "13395" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofile2RDqSd"
+1637857005291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofile2RDqSd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13395/devtools/browser/db9c7108-ab9a-427a-9521-5c50849d9836
+1637857007797	Marionette	INFO	Listening on port 13401
+1637857008025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637857012548	Marionette	INFO	Stopped listening on port 13401
+1637857254907	geckodriver	INFO	Listening on 127.0.0.1:13684
+1637857257916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "13685" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileD9frJq"
+1637857258254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileD9frJq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13685/devtools/browser/277f0f1f-5cda-4aaf-ae00-fa69387ccf5c
+1637857260560	Marionette	INFO	Listening on port 13691
+1637857261044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637857297147	Marionette	INFO	Stopped listening on port 13691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637857300284	geckodriver	INFO	Listening on 127.0.0.1:13871
+1637857303296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "13872" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofiley2Ygju"
+1637857303671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofiley2Ygju\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13872/devtools/browser/b2f02498-7b9d-406b-ab27-6f8e183964cc
+1637857306097	Marionette	INFO	Listening on port 13878
+1637857306430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637857405327	Marionette	INFO	Stopped listening on port 13878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637857407799	geckodriver	INFO	Listening on 127.0.0.1:14115
+1637857410808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "14116" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilecncG29"
+1637857411183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilecncG29\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14116/devtools/browser/c0f7f366-ba77-462f-aeb8-053790daf87d
+1637857413406	Marionette	INFO	Listening on port 14122
+1637857413435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637857427519	Marionette	INFO	Stopped listening on port 14122
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637864634977	geckodriver	INFO	Listening on 127.0.0.1:11190
+1637864637999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "11191" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileePzAo1"
+*** You are running in headless mode.
+1637864638625	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileePzAo1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11191/devtools/browser/b21245e2-b4fd-411c-ae8f-47141b856432
+1637864640596	Marionette	INFO	Listening on port 11198
+1637864640660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:11363
+1637864683203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "11364" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileONtEdk"
+*** You are running in headless mode.
+1637864683733	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileONtEdk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11364/devtools/browser/771c1a93-8c95-4d9e-a141-661ae47ea33c
+1637864685586	Marionette	INFO	Listening on port 11372
+1637864685874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:11640
+1637864861753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "11641" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileCPZqG3"
+*** You are running in headless mode.
+1637864862285	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileCPZqG3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11641/devtools/browser/53c72058-f5c8-4ced-8c4a-f7fb6587dde9
+1637864864189	Marionette	INFO	Listening on port 11647
+1637864864398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637864872591	Marionette	INFO	Stopped listening on port 11647
+[Parent 4152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1637865438791	geckodriver	INFO	Listening on 127.0.0.1:12361
+1637865441680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "12362" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofiledgunZU"
+*** You are running in headless mode.
+1637865442298	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofiledgunZU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12362/devtools/browser/7fa9ab7c-82b4-4363-bed7-1423783856b2
+1637865444241	Marionette	INFO	Listening on port 12368
+1637865444338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637865453473	Marionette	INFO	Stopped listening on port 12368
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofiledgunZU\protections.sqlite
+1637865530788	geckodriver	INFO	Listening on 127.0.0.1:12615
+1637865533815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "12616" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileMDeQTc"
+*** You are running in headless mode.
+1637865534410	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileMDeQTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12616/devtools/browser/2c3317d0-e6bc-4f63-aac6-6caf8a3bea7c
+1637865536602	Marionette	INFO	Listening on port 12625
+1637865536976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637865545726	Marionette	INFO	Stopped listening on port 12625
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofileMDeQTc\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637865783656	geckodriver	INFO	Listening on 127.0.0.1:12951
+1637865786680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "12952" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileRuko0B"
+*** You are running in headless mode.
+1637865787231	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileRuko0B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12952/devtools/browser/2127a4fd-b819-451f-b184-bca6eb57da24
+1637865789730	Marionette	INFO	Listening on port 12960
+1637865789837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "13146" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilebq682V"
+*** You are running in headless mode.
+1637865824390	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilebq682V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13146/devtools/browser/b3062b90-69c8-4ec1-9fdf-f0baf0c97210
+1637865826521	Marionette	INFO	Listening on port 13153
+1637865827013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637865835390	Marionette	INFO	Stopped listening on port 13153
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilebq682V\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637865910168	geckodriver	INFO	Listening on 127.0.0.1:13386
+1637865913166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "13387" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileQLWik8"
+*** You are running in headless mode.
+1637865913629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileQLWik8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13387/devtools/browser/7f67a1cd-75e8-48e0-b8bd-92a56e1b746d
+1637865915432	Marionette	INFO	Listening on port 13396
+1637865915801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637865924375	Marionette	INFO	Stopped listening on port 13396
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofileQLWik8\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637866054860	geckodriver	INFO	Listening on 127.0.0.1:7466
+1637866057847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "7467" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilenZGDo0"
+*** You are running in headless mode.
+1637866058458	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilenZGDo0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7467/devtools/browser/3b9838b2-53bd-44b8-91be-1062c82ffba0
+1637866060938	Marionette	INFO	Listening on port 7477
+1637866061096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637866071378	Marionette	INFO	Stopped listening on port 7477
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilenZGDo0\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637866637361	geckodriver	INFO	Listening on 127.0.0.1:8240
+1637866640380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8241" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileHbQowC"
+*** You are running in headless mode.
+1637866640975	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileHbQowC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8241/devtools/browser/50520aa2-4d92-4c7f-bc26-390430121cf0
+1637866643008	Marionette	INFO	Listening on port 8249
+1637866643523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637866653725	Marionette	INFO	Stopped listening on port 8249
+1637866690778	geckodriver	INFO	Listening on 127.0.0.1:8451
+1637866693793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8452" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileM6Kiwi"
+*** You are running in headless mode.
+1637866694375	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileM6Kiwi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8452/devtools/browser/bc35e7f3-b1c4-4ba1-bf24-0cdb83c6a4f1
+1637866696606	Marionette	INFO	Listening on port 8461
+1637866696932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637866707066	Marionette	INFO	Stopped listening on port 8461
+1637866711465	geckodriver	INFO	Listening on 127.0.0.1:8620
+1637866714486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8621" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileM9cibP"
+*** You are running in headless mode.
+1637866715020	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileM9cibP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8621/devtools/browser/a19b4919-a818-4dbb-9bc1-d80368f0994c
+1637866717237	Marionette	INFO	Listening on port 8629
+1637866717632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637866727912	Marionette	INFO	Stopped listening on port 8629
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1637866770164	geckodriver	INFO	Listening on 127.0.0.1:8827
+1637866773172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "8828" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilerPkU48"
+*** You are running in headless mode.
+1637866773858	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilerPkU48\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:8828/devtools/browser/6d2bc9d9-35fa-4285-b28c-8471a15db499
+1637866775912	Marionette	INFO	Listening on port 8835
+1637866776332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637866787522	Marionette	INFO	Stopped listening on port 8835
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilerPkU48\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637866800628	geckodriver	INFO	Listening on 127.0.0.1:9002
+1637866803634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "9003" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileMWvb88"
+*** You are running in headless mode.
+1637866804247	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileMWvb88\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9003/devtools/browser/79c0ce6f-85aa-489d-8130-cc1e79d5e574
+1637866806525	Marionette	INFO	Listening on port 9011
+1637866806777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+:runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "9179" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofile7DoGn7"
+*** You are running in headless mode.
+1637866817469	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofile7DoGn7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9179/devtools/browser/741b8070-ea61-4ed0-ae40-ce75a1edd278
+1637866819917	Marionette	INFO	Listening on port 9189
+1637866820364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1381: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637866828854	Marionette	INFO	Stopped listening on port 9189
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofile7DoGn7\protections.sqlite
+1637875808947	geckodriver	INFO	Listening on 127.0.0.1:10674
+1637875811996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "10675" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilei0EG9x"
+*** You are running in headless mode.
+1637875812623	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilei0EG9x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10675/devtools/browser/3fc0bb89-80a7-4b75-b058-075ab389db4b
+1637875814578	Marionette	INFO	Listening on port 10684
+1637875814685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77452, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637875824839	Marionette	INFO	Stopped listening on port 10684
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilei0EG9x\protections.sqlite
+1637875847244	geckodriver	INFO	Listening on 127.0.0.1:10873
+1637875850258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "10874" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofile9j8MG5"
+*** You are running in headless mode.
+1637875850889	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofile9j8MG5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10874/devtools/browser/a0b37ee2-5096-4af3-9a56-5b074f9341cb
+1637875853285	Marionette	INFO	Listening on port 10882
+1637875853414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77452, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637875863548	Marionette	INFO	Stopped listening on port 10882
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofile9j8MG5\protections.sqlite
+1637875952827	geckodriver	INFO	Listening on 127.0.0.1:3609
+1637875955849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3610" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilerlesMp"
+*** You are running in headless mode.
+1637875956693	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilerlesMp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3610/devtools/browser/8d964599-a9a4-4b35-9010-c33cee05157c
+1637875958980	Marionette	INFO	Listening on port 3617
+1637875959214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637875970644	Marionette	INFO	Stopped listening on port 3617
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilerlesMp\protections.sqlite
+1637875983014	geckodriver	INFO	Listening on 127.0.0.1:3810
+1637875986027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "3811" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilef4KZ0r"
+*** You are running in headless mode.
+1637875986559	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilef4KZ0r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3811/devtools/browser/69aa38db-8b69-40b4-8c2e-4217e83d69ea
+1637875988675	Marionette	INFO	Listening on port 3820
+1637875989164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637876020707	Marionette	INFO	Stopped listening on port 3820
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilef4KZ0r\protections.sqlite
+1637876057518	geckodriver	INFO	Listening on 127.0.0.1:4034
+1637876060546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4035" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileW5XpHo"
+*** You are running in headless mode.
+1637876061282	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileW5XpHo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4035/devtools/browser/27dd74b2-c6df-4092-9246-a1c732a7474c
+1637876063601	Marionette	INFO	Listening on port 4042
+1637876063943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637876074492	Marionette	INFO	Stopped listening on port 4042
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofileW5XpHo\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637876097997	geckodriver	INFO	Listening on 127.0.0.1:4215
+1637876100947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4216" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileF55ZxL"
+*** You are running in headless mode.
+1637876101581	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileF55ZxL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4216/devtools/browser/bc67d66d-27e0-4b36-8b27-af99e9c1952c
+1637876104052	Marionette	INFO	Listening on port 4224
+1637876104191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637876114492	Marionette	INFO	Stopped listening on port 4224
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637876140251	geckodriver	INFO	Listening on 127.0.0.1:4407
+1637876143273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4408" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofiletf7uKI"
+*** You are running in headless mode.
+1637876143901	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofiletf7uKI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4408/devtools/browser/80ad6fcf-a894-49e6-b256-71bca4d9eb3c
+1637876145971	Marionette	INFO	Listening on port 4417
+1637876146409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637876156908	Marionette	INFO	Stopped listening on port 4417
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofiletf7uKI\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637876292428	geckodriver	INFO	Listening on 127.0.0.1:4695
+1637876295437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4696" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileKXfrww"
+*** You are running in headless mode.
+1637876296106	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileKXfrww\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4696/devtools/browser/3c4f0e97-dac7-4613-936c-49de34668537
+1637876298518	Marionette	INFO	Listening on port 4705
+1637876298583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:5075
+1637876477695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5076" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilefPezIZ"
+*** You are running in headless mode.
+1637876478335	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofilefPezIZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5076/devtools/browser/8cc8a97b-2329-46f8-8dd2-3228d7de9599
+1637876480395	Marionette	INFO	Listening on port 5087
+1637876480929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+1637876491994	Marionette	INFO	Stopped listening on port 5087
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\itama\AppData\Local\Temp\rust_mozprofilefPezIZ\protections.sqlite
+1637876555864	geckodriver	INFO	Listening on 127.0.0.1:5304
+1637876558867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5305" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileDq6iiW"
+*** You are running in headless mode.
+1637876559451	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileDq6iiW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5305/devtools/browser/1e3c8ce7-1104-4646-86f1-1f776f718fff
+1637876561486	Marionette	INFO	Listening on port 5312
+1637876561633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1382: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:4892
+1637876864294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4893" "-no-remote" "-profile" "C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileZRqk2y"
+*** You are running in headless mode.
+1637876865118	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itama\\AppData\\Local\\Temp\\rust_mozprofileZRqk2y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4893/devtools/browser/68883a3f-b38b-4293-a4d9-7f2636eb2a7e
+1637876867595	Marionette	INFO	Listening on port 4900
+1637876868140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dlkmodas.com.br/#&search-term=77424, line 1286: TypeError: can't access property "onclick", document.querySelector(...) is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
