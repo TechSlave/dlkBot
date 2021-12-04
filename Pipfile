@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 beautifulsoup4 = "*"
 pandas = "*"
-telebot = "*"
 selenium = "*"
 requests-html = "*"
 
