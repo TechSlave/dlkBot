@@ -1,30 +1,48 @@
-def add_produto(code, user):
-    users = users if isinstance(users, (list, tuple)) else [users]
+import sqlite3 as lite
+from urllib.request import pathname2url
+db = r'dlkbot.sqlite'
 
 
-class User:
+def create_db():
+    try:
+        dburi = f'file:{db}?mode=rw'
+        conn = lite.connect(dburi, uri=True)
 
-    @staticmethod
-    def update(telegram_id, upsert=False, **kwargs):
-        """Update an User in the database
-        Args:
-            telegram_id (str): Telegram User ID. It's casts to string to keep
-                compatibility with current data.
-            upsert (bool): Create if the user doesn't exist
-        Kwargs:
-            All keyword arguments will be sent as fields and its values to
-            update the user data. The following example will update the user,
-            which ID is 123, with `lang` field equals to `"pt_BR"`.
-            >>> User.update(123, lang="pt_BR")
-        Returns:
-            An dict with User data.
-        """
+        print("Banco já existente, criação ignorada")
+    except lite.OperationalError:
+        conn = lite.connect(db)
+        cursor = conn.cursor()
+        cursor.execute("""
+        CREATE TABLE produtos (
+                id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+                chat_id INTEGER NOT NULL,
+                modelo TEXT NOT NULL,
+                codigo INTEGER NOT NULL,
+                url TEXT NOT NULL,
+                valor  INTEGER NOT NULL,
+                disponivel INTEGER NOT NULL
+        );
+        """)
+        print('Tabela criada com sucesso.')
 
-        telegram_id = str(telegram_id)
-        kwargs["id"] = telegram_id  # Don't miss `id` if creating a new User
 
-        return db.users.update(
-            {"id": telegram_id},
-            {"$set": kwargs},
-            upsert=upsert,
-        )
+def add_produto(chat_id, modelo, codigo, url, valor, disponivel):
+    chat_id = int(chat_id)
+    modelo = modelo
+    codigo = int(codigo)
+    url = url
+    valor = int(valor)
+    if disponivel:
+        disponivel = 1
+    else:
+        disponivel = 0
+    conn = lite.connect(db)
+    cursor = conn.cursor()
+    cursor.execute(f"""
+    INSERT INTO produtos(chat_id, modelo, codigo, url, valor, disponivel)
+    VALUES ('{chat_id}','{modelo}','{codigo}','{url}','{valor}','{disponivel}')
+    """)
+    conn.commit()
+
+    print('Produto cadastrado com sucesso')
+    conn.close()
